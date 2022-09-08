@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.deleteCell {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    height: 50px;
+    background-color: #fff;
+    border: 1px solid #323232;
+    cursor: pointer;
+}
